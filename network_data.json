@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-07-15T03:36:29.189Z",
+    "member_name": "Aster Julian Ray",
+    "location_zone": "Final Section B",
+    "provider": "Mytel",
+    "connection_type": "Wi-Fi",
+    "public_ip": "43.231.66.234",
+    "routing_region": "Yangon",
+    "is_vpn_active": false,
+    "os_platform": "linux",
+    "latency_ms": 82.6,
+    "status": "Connected"
+  },
+  {
+    "timestamp": "2026-07-15T04:03:39.028Z",
+    "member_name": "Aster Julian Ray",
+    "location_zone": "Final Section B",
+    "provider": "Mytel",
+    "connection_type": "Wi-Fi",
+    "public_ip": "43.231.66.234",
+    "routing_region": "Yangon",
+    "is_vpn_active": false,
+    "os_platform": "linux",
+    "latency_ms": 132,
+    "status": "Connected"
+  },
+  {
+    "timestamp": "2026-07-15T04:11:40.389Z",
+    "member_name": "Aster Julian Ray",
+    "location_zone": "Final Section B",
+    "provider": "Mytel",
+    "connection_type": "Wi-Fi",
+    "public_ip": "43.231.66.234",
+    "routing_region": "Yangon",
+    "is_vpn_active": false,
+    "os_platform": "linux",
+    "latency_ms": 152,
+    "status": "Connected"
+  }
+]
